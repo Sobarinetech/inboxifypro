@@ -76,8 +76,9 @@ st.title("Inboxify by EverTech")
 
 # Additional Information
 st.write("""
-**For Inboxify APP, please visit [Amazon Appstore](https://www.amazon.com/gp/product/B0DV3S92JY)**  
-This is a web version of **Inboxify Pro**.  
+**For Inboxify access, please visit [Amazon Appstore](https://www.amazon.com/gp/product/B0DV3S92JY)**  
+This version is created solely for **open source basis**.  
+The original application is capable of handling **50,000+ email IDs at once**.
 """)
 
 # Blacklist upload
